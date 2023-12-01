@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T20:58:53.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tmZmtgwdY6hqNjAgDDVX" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:14:00.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9GFsrPSHC6f_SAChwGbH" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,19 @@
             <mxPoint x="320" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IIkpoFcZCJiclriz6WqY-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IIkpoFcZCJiclriz6WqY-8" target="IIkpoFcZCJiclriz6WqY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IIkpoFcZCJiclriz6WqY-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IIkpoFcZCJiclriz6WqY-9" target="IIkpoFcZCJiclriz6WqY-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IIkpoFcZCJiclriz6WqY-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="390" width="100" height="60" as="geometry" />
@@ -51,6 +62,9 @@
         </mxCell>
         <mxCell id="IIkpoFcZCJiclriz6WqY-13" value="Planning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IIkpoFcZCJiclriz6WqY-14" target="IIkpoFcZCJiclriz6WqY-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IIkpoFcZCJiclriz6WqY-14" value="Games" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="405" width="60" height="30" as="geometry" />
@@ -106,8 +120,20 @@
         <mxCell id="IIkpoFcZCJiclriz6WqY-29" value="Workout Planner:&lt;br&gt;An app that helps plan and track workouts throughout the week" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IIkpoFcZCJiclriz6WqY-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="575" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="IIkpoFcZCJiclriz6WqY-31" value="Buddy Tracker:&lt;br&gt;An app that lets you input workout stats and compare with other users" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-37" value="Food Idealizer:&lt;br&gt;An app that provides a list of random restaurants based on location of the user" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-39" value="Calorie Tracker:&lt;br&gt;An app that tracks calories of food taken and plans meals throughout the week" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-42" value="RPG game:&lt;br&gt;A full blown playable old style rpg game" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIkpoFcZCJiclriz6WqY-44" value="Chess:&lt;br&gt;A playable chess duplicate that users can enjoy" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
